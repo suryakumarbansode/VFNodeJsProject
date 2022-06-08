@@ -1,6 +1,6 @@
 /**
 * main page object containing all methods, selectors and functionality
-* that is shared across all page objects
+* that is shared across all page objects - Pull example
 */
 export default class Page {
     /**
